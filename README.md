@@ -105,19 +105,21 @@ Love creativity, code, and coffee ☕. Always up for new collaborations or ideas
 * Animation support: GSAP & AOS library
 
 ---
----
 
-<!-- Animated SVG Header Border -->
+<!-- Wavy Footer Section (GitHub Compatible + Clean) -->
 <div align="center">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=SkillWave&text2=Code+by+Gayatri" width="100%" />
+
+  <!-- Project Signature -->
+  <h3 align="center">✨ Built with ❤️ by <strong>Gayatri G</strong></h3>
+   <p align="center">
+    🚀 Powered by Passion & Curiosity <br/>
+    🗓️ <strong>© 2025</strong> — All rights reserved
+  </p>
+
+
+  <!-- Footer Wave Animation (via capsule-render.vercel.app) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
+ 
 </div>
 
-<!-- Wave Footer SVG -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SheldonLaw/svg-wave/master/demo2.html" width="100%" />
-</div>
-
-<p align="center">
-  🚀 <strong>Built by Gayatri G</strong><br/>
-  💜 Powered by Passion & Curiosity | © 2025
-</p>
