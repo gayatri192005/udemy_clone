@@ -110,7 +110,7 @@ Love creativity, code, and coffee ☕. Always up for new collaborations or ideas
 <div align="center">
 
   <!-- Project Signature -->
-  <h3 align="center">✨ Built with ❤️ by <strong>Gayatri G</strong></h3>
+  <h3 align="center">✨ Built with ❤️ by <strong> Gayatri G </strong></h3>
    <p align="center">
     🚀 Powered by Passion & Curiosity <br/>
     🗓️ <strong>© 2025</strong> — All rights reserved
