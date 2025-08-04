@@ -24,6 +24,9 @@
 
 It simulates real-time learning with functional components, course previews, interactive designs, and smooth transitions — everything that makes online learning delightful.
 
+<img width="1867" height="857" alt="image" src="https://github.com/user-attachments/assets/9a6bf4d8-414b-41ff-b578-4ba01f248bcb" />
+
+
 ---
 
 ## 🚀 Features
@@ -57,8 +60,30 @@ It simulates real-time learning with functional components, course previews, int
 <div align="center">
   <img src="https://user-images.githubusercontent.com/demo-gif/udemy-clone-preview.gif" width="600" />
   <br/>
-  <a href="https://your-deployed-link.vercel.app">🌐 Click Here to Explore Live Demo</a>
+  <a href="https://gayatri192005.github.io/udemy_clone/">🌐 Click Here to Explore Live Demo</a>
 </div>
+<br>
+
+
+
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img width="960" height="1900" alt="image" src="https://github.com/user-attachments/assets/87759221-e816-4203-909d-87c0e0760706" /></td>
+      <td><img width="960" height="1200" alt="image" src="https://github.com/user-attachments/assets/125823c8-7311-42ae-b7c5-785dd6033faa"/></td>
+      <td><img width="960" height="1000" alt="image" src="https://github.com/user-attachments/assets/835b645c-4cf5-46a5-aee9-62b5f550be5d" /> </td>
+      <td><img width="960" height="1200" alt="image" src="https://github.com/user-attachments/assets/71bb2223-9ef7-43ae-83dc-71929c299fea" /></td>
+    </tr>
+    <tr align="center">
+      <td><b>Courses</b></td>
+      <td><b>Categories</b></td>
+      <td><b>Real-Time Experts</b></td>
+      <td><b>Footer</b></td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 
@@ -82,24 +107,14 @@ It simulates real-time learning with functional components, course previews, int
 
 ---
 
-## 🧑‍💻 Connect With Me
+🌐 Connect With Me
 
-Hey, I'm **Gayatri G** – a passionate frontend developer building visually intuitive and useful apps.  
-Love creativity, code, and coffee ☕. Always up for new collaborations or ideas!
-
-<div align="left">
-  <a href="mailto:gayatri192005@gmail.com">📧 gayatri192005@gmail.com</a><br/>
-  <a href="https://www.linkedin.com/in/gayatri192005">🔗 LinkedIn: gayatri192005</a><br/>
-  <a href="https://www.instagram.com/gayatri192005">📸 Instagram: @gayatri192005</a><br/>
-  <a href="https://twitter.com/gayatri192005">🐦 Twitter: @gayatri192005</a><br/>
-  <a href="https://www.snapchat.com/add/gayatri192005">👻 Snapchat: gayatri192005</a><br/>
-</div>
+<div align="center"> <a href="https://www.linkedin.com/in/gayatri192005" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> &nbsp; <a href="https://twitter.com/gayatri192005" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> &nbsp; <a href="https://instagram.com/gayatri192005" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> &nbsp; <a href="https://www.snapchat.com/add/gayatri192005" target="_blank"> <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" /> </a> &nbsp; <a href="mailto:gayatri192005@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div>
 
 ---
 
 ## 🙌 Acknowledgments
 
-* Thanks to @lokeshagarwal2304 for the initial structure idea
 * UI references from Udemy’s original platform
 * Icons: [SkillIcons.dev](https://skillicons.dev), FontAwesome
 * Animation support: GSAP & AOS library
